@@ -1,5 +1,5 @@
 {
-  "name": "json-component-render",
+  "name": "json-component-renderer",
   "version": "0.0.1",
   "main": "dist/index.js",
   "description": "Lib to render elements tree",
