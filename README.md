@@ -20,3 +20,7 @@ or
 ```sh
 yarn add json-component-renderer
 ```
+
+Examples:
+[vanilla javascript](https://codesandbox.io/s/json-component-renderer-vanilla-v3mtb)
+[react](https://codesandbox.io/s/json-component-renderer-react-93ggs)
